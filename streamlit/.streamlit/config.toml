@@ -1,0 +1,4 @@
+[server]
+
+# Streamlit File Uploader does not support Xsrf protection
+enableXsrfProtection = false
